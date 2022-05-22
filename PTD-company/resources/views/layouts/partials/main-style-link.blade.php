@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="{{ asset('css/main/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/owl.theme.default.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/owl.carousel.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/magnific-popup.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/animate.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/boxicons.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/flaticon.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/meanmenu.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/nice-select.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/odometer.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/style.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/responsive.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/rtl.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/demo.css') }}">
+<link rel="stylesheet" href="{{ asset('css/main/jquery.md.bootstrap.datetimepicker.style.css') }}">
+<link rel="stylesheet" href="{{ asset('favicon.png') }}">
